@@ -1,0 +1,9 @@
+<p id="widg">
+	<a href="http://www.accuweather.com/en/nl/amsterdam/249758/weather-forecast/249758" class="aw-widget-legal">
+	<!--
+	By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at http://www.accuweather.com/en/privacy.
+	-->
+	</a><div id="awcc1480930996113" class="aw-widget-current"  data-locationkey="249758" data-unit="f" data-language="en-us" data-useip="false" data-uid="awcc1480930996113"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
+
+</p>
+<p id="tst_txt">Test</p>
